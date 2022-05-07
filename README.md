@@ -4,6 +4,8 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-%23007396.svg?style=flat-square&logo=Java&logoColor=ffffff)
   ![Python](https://img.shields.io/badge/-Python-%3776AB.svg?style=flat-square&logo=Python&logoColor=ffffff)
+  ![C](https://img.shields.io/badge/-C-%A8B9CC.svg?style=flat-square&logo=C&logoColor=ffffff)
+
   
 - 🌐 &nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=ffffff)
