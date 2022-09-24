@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MINJU-KIMmm&fontSize=90)
 <h3> 🛠 &nbsp;Tech I've used</h3>
 
 - 💻 &nbsp;
@@ -36,4 +35,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINJU-KIMmm&show_icons=true&theme=radical)
